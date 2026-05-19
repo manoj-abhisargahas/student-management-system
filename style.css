@@ -3,6 +3,9 @@ body {
     text-align: center;
     margin: 0;
 }
+a {
+    text-decoration: none;
+}
 table {
     border-spacing: 0;
     margin: 0 auto;
@@ -27,7 +30,6 @@ a.card {
     width: 200px;
     height: 100px;
     box-sizing: border-box;
-    text-decoration: none;
     color: #4e4e4e;
     font-size: 20px;
     border: 1px solid #e6e6e6;
@@ -39,6 +41,7 @@ a.card:hover {
 .head-txt {
     margin-top: 0;
     margin-bottom: 0;
+    color: black;
 }
 .head-txt span {
     color: red;
@@ -56,7 +59,6 @@ a.logout {
     background-color: #eee;
     border-radius: 27px;
     line-height: 1.5;
-    text-decoration: none;
     color: #555;
 }
 footer {
