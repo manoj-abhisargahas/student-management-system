@@ -76,3 +76,6 @@ footer {
     margin-top: auto;
     padding: 20px;
 }
+p {
+    color: red;
+}
