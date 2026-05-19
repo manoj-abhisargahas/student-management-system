@@ -38,14 +38,14 @@ a.card {
     width: 400px;
     height: 200px;
     box-sizing: border-box;
-    color: #534f4f;
+    color: #ffffff;
     font-size: 36px;
-    border: 1px solid #bebebe;
-    background-color: #e5e5e5;
+    /* border: 1px solid #bebebe; */
+    background-color: #ff0000;
     border-radius: 8px;
 }
-a.card:hover { 
-    background-color: red;
+a.card:hover {
+    background-color: #3e3e3e;
     color: white;
 }
 .head-txt {
@@ -60,7 +60,7 @@ header {
     display: flex;
     padding: 20px 30px;
     justify-content: space-between;
-    box-shadow: 1px 1px 15px 1px #00000017;
+    box-shadow: 1px 1px 15px 1px #00000033;
     margin-bottom: 48px;
 }
 
