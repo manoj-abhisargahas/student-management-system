@@ -30,17 +30,19 @@ th, td {
     gap: 20px;
 }
 a.card {
-    box-shadow: 1px 1px 11px 0px #00000038;
+    box-shadow: 1px 1px 2px 0px #00000038;
     padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 200px;
-    height: 100px;
+    width: 400px;
+    height: 200px;
     box-sizing: border-box;
-    color: #4e4e4e;
-    font-size: 20px;
-    border: 1px solid #e6e6e6;
+    color: #534f4f;
+    font-size: 36px;
+    border: 1px solid #bebebe;
+    background-color: #e5e5e5;
+    border-radius: 8px;
 }
 a.card:hover { 
     background-color: red;
