@@ -24,7 +24,7 @@ th, td {
     width: max-content;
     margin: 0 auto;
     grid-auto-flow: column;
-    gap: 30px;
+    gap: 20px;
 }
 a.card {
     box-shadow: 1px 1px 11px 0px #00000038;
